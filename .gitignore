@@ -1,0 +1,15 @@
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua file cấu hình môi trường (nếu có)
+.env
+
+# Bỏ qua file lock
+package-lock.json
+
+# Bỏ qua thư mục build (nếu có)
+dist/
+build/
+
+# Bỏ qua file video đã tải lên
+happycat.mp4
