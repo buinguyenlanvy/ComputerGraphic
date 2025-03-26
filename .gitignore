@@ -11,5 +11,3 @@ package-lock.json
 dist/
 build/
 
-# Bỏ qua file video đã tải lên
-happycat.mp4
